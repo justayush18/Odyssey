@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//this is not optimized approach 
 public class LC4MedianOfArray {
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] merged = new int[nums1.length + nums2.length];
