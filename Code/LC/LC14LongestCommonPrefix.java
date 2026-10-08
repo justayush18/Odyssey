@@ -1,4 +1,4 @@
-public class LC9PalindromeNumber {
+public class LC14LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < strs[0].length(); i++) {
